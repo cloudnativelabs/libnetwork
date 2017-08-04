@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/docker/libnetwork/test/networkDb/dbclient"
 	"github.com/docker/libnetwork/test/networkDb/dbserver"
 )

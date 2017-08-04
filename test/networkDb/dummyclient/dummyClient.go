@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	events "github.com/docker/go-events"
 	"github.com/docker/libnetwork/diagnose"
 	"github.com/docker/libnetwork/networkdb"
